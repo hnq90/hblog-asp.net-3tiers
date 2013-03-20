@@ -1,0 +1,64 @@
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+h:\users\huynq\documents\visual studio 2010\Projects\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+C:\Users\STT001\Desktop\NET\Assignment\Day7\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day7\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day7\Assignment_Day7_HuyNQ16B\BAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\STT001\Desktop\NET\Assignment\Day7\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day7\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day8\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\BAL\bin\Release\System.Data.SQLite.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.dll
+C:\Users\STT001\Desktop\NET\Assignment\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\BAL.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Commons.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\DAL.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\bin\Release\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.csprojResolveAssemblyReference.cache
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\BAL\obj\Release\BAL.pdb

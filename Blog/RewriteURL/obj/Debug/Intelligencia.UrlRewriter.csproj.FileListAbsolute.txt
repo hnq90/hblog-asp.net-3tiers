@@ -1,0 +1,12 @@
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Debug\Intelligencia.UrlRewriter.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Debug\Intelligencia.UrlRewriter.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.Messages.resources
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.csproj.GenerateResource.Cache
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Debug\Intelligencia.UrlRewriter.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Debug\Intelligencia.UrlRewriter.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.Messages.resources
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.csproj.GenerateResource.Cache
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Debug\Intelligencia.UrlRewriter.pdb

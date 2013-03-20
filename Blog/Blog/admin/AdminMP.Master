@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMP.master.cs" Inherits="Blog.admin.AdminMP" %>
+<%@ Import Namespace="Commons" %>
+<%@ Import Namespace="Entities" %>
+<%@ Import Namespace="System.Collections.Generic" %>
+<%
+    List<User> lt = BlogCommons._currentuser;
+%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            <asp:ContentPlaceHolder ID="titlecph" runat="server">
+            </asp:ContentPlaceHolder>
+        </title>
+        <meta itemprop="name" content="HuyNQ" />
+        <meta itemprop="author" content="HuyNQ" />
+        <meta itemprop="creator" content="HuyNQ" />
+        <meta itemprop="provider" content="HuyNQ" />
+        <meta itemprop="copyright" content="HuyNQ" />
+        <meta name="distributor" content="Global" />
+        <meta itemprop="contentRating" content="General" />
+        <meta name="robots" content="All" />
+        <meta name="revisit-after" content="7 days" />
+        <meta name="description" content="hBlog using ASP.NET" />
+        <meta name="keywords" content="blog, huynq" />
+        <meta name="viewport" content="width=1024" />
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../resources/css/normalize.css" type="text/css" />
+        <link rel="stylesheet" href="../resources/css/admincp.css" type="text/css" />
+        <script src="../resources/ckeditor/ckeditor.js" type="text/javascript"> </script>
+        <script type="text/javascript">
+            CKEDITOR.replace('editor1');
+        </script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"> </script>
+        <asp:ContentPlaceHolder ID="ajaxcph" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <div id="top">
+            <h2 style="float: left; left: 20px; position: absolute;">
+                <a href="Index.aspx">Halo,
+                    <%= lt[0].Username %></a>
+            </h2>
+            <span style="float: right; position: absolute; right: 20px;"><a href="LogOut.aspx">Log
+                                                                             out</a></span>
+        </div>
+        <div id="body">
+            <div id="sidebar">
+                <div class="sblock">
+                    <h3 class="heading">
+                        <a href="../Index.aspx">Go To HomePage</a>
+                    </h3>
+                </div>
+                <div class="sblock">
+                    <h3 class="heading">
+                        Manage Posts
+                    </h3>
+                    <div class="ccontent">
+                        <ul>
+                            <li><a href="CreatePost.aspx">Create New Post</a></li>
+                            <% if (lt[0].IsAdmin)
+                               { %>
+                                <li><a href="ManagePosts.aspx">Edit Posts</a></li>
+                            <% } %>
+                        </ul>
+                    </div>
+                </div>
+                <div class="sblock">
+                    <h3 class="heading">
+                        Manage Users
+                    </h3>
+                    <div class="ccontent">
+                        <ul>
+                            <% if (lt[0].IsAdmin)
+                               { %>
+                                <li><a href="CreateUser.aspx">Create An User</a></li>
+                                <li><a href="ManageUsers.aspx">Edit Users</a></li>
+                            <% } %>
+                            <li><a href="EditProfile.aspx">Edit My Profile</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <% if (lt[0].IsAdmin)
+                   { %>
+                    <div class="sblock">
+                        <h5 class="heading">
+                            <a href="ManageCategories.aspx">Manage Categories</a>
+                        </h5>
+                    </div>
+                    <div class="sblock">
+                        <h5 class="heading">
+                            <a href="ManageComments.aspx">Manage Comments</a>
+                        </h5>
+                    </div>
+                <% } %>
+            </div>
+            <div id="content">
+                <asp:ContentPlaceHolder ID="maincph" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div style="clear: both;">
+        </div>
+        <div id="footer">
+            &copy 2013 - HuyNQ</div>
+    </body>
+</html>

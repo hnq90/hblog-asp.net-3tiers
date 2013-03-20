@@ -1,0 +1,5 @@
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Release\Intelligencia.UrlRewriter.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\bin\Release\Intelligencia.UrlRewriter.xml
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Release\Intelligencia.UrlRewriter.Messages.resources
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Release\Intelligencia.UrlRewriter.csproj.GenerateResource.Cache
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\RewriteURL\obj\Release\Intelligencia.UrlRewriter.dll

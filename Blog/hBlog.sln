@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{41D4869D-0369-458F-8444-AC84A4B5DF72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{A6025927-E196-4E71-AF04-455088217FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{D68C3AED-A54F-4BE4-B7A6-B667BC314452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{4EF87733-6D14-4DAD-B5FC-5111AAF0427C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelligencia.UrlRewriter", "RewriteURL\Intelligencia.UrlRewriter.csproj", "{F8516C67-92BE-43FF-A8A9-B71A3EA4BE0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE54C507-A140-4824-97AB-ACFE976651BA}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{1C9ED901-2F60-4352-A3E0-9E5E70B5B522}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Assignment_Day9_HuyNQ16B.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D4869D-0369-458F-8444-AC84A4B5DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D4869D-0369-458F-8444-AC84A4B5DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D4869D-0369-458F-8444-AC84A4B5DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D4869D-0369-458F-8444-AC84A4B5DF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6025927-E196-4E71-AF04-455088217FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6025927-E196-4E71-AF04-455088217FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6025927-E196-4E71-AF04-455088217FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6025927-E196-4E71-AF04-455088217FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68C3AED-A54F-4BE4-B7A6-B667BC314452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68C3AED-A54F-4BE4-B7A6-B667BC314452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68C3AED-A54F-4BE4-B7A6-B667BC314452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68C3AED-A54F-4BE4-B7A6-B667BC314452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF87733-6D14-4DAD-B5FC-5111AAF0427C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF87733-6D14-4DAD-B5FC-5111AAF0427C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF87733-6D14-4DAD-B5FC-5111AAF0427C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF87733-6D14-4DAD-B5FC-5111AAF0427C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8516C67-92BE-43FF-A8A9-B71A3EA4BE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8516C67-92BE-43FF-A8A9-B71A3EA4BE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8516C67-92BE-43FF-A8A9-B71A3EA4BE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8516C67-92BE-43FF-A8A9-B71A3EA4BE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9ED901-2F60-4352-A3E0-9E5E70B5B522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9ED901-2F60-4352-A3E0-9E5E70B5B522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9ED901-2F60-4352-A3E0-9E5E70B5B522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9ED901-2F60-4352-A3E0-9E5E70B5B522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

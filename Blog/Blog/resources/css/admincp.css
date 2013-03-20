@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul { list-style: none; }
+
+li { padding-top: 5px; }
+
+/* Normal link */
+
+a {
+    color: #069;
+    text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+    color: #069;
+    outline: none;
+    text-decoration: none;
+}
+
+#top {
+    background: #222;
+    border-bottom: 5px solid #333;
+    color: #fff;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#sidebar {
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    border: 1px solid #ccc;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    float: left;
+    margin: 0 50px 10px 10px;
+    width: 300px;
+}
+
+.sblock {
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    margin-bottom: 20px;
+    padding: 0 2px;
+}
+
+.sblock .heading {
+    background: black;
+    border-bottom: 3px solid #ccc;
+    color: white;
+    line-height: 25px;
+    padding: 0 0 5px 10px;
+    text-shadow: 0 1px 1px #fff !important;
+    text-transform: uppercase;
+}
+
+.sblock .heading a { color: white; }
+
+.sblock .ccontent {
+    margin: 5px 15px;
+    padding-bottom: 5px;
+}
+
+#content {
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    border: 1px solid #ccc;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    margin: 10px 10px 10px 350px;
+    width: 700px;
+}
+
+.float_left { float: left; }
+
+.float_right { float: right; }
+
+br { clear: both; }
+
+table, td {
+    /*border: 1px wheat solid;*/
+    margin: 20px 20px;
+    padding: 5px 10px;
+}
+
+.table_posts tr {
+    border-bottom: 1px wheat solid;
+    border-top: 1px wheat solid;
+}
+
+.table_posts td {
+    border-left: 1px wheat solid;
+    border-right: 1px wheat solid;
+}
+
+.tbheader td {
+    background-color: red;
+    color: white;
+}
+
+input[type="submit"].submit_button {
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    background: black;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    color: white;
+    height: 28px;
+    margin: 10px 5px;
+    width: 100px;
+}
+
+#footer { text-align: center; }

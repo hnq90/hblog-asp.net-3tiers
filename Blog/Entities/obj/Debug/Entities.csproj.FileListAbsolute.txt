@@ -1,0 +1,12 @@
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.pdb
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Day9\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\Entities\bin\Debug\Entities.pdb
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.dll
+H:\Users\HuyNQ\Desktop\Day11\Assignment_Day7_HuyNQ16B\Entities\obj\Debug\Entities.pdb
